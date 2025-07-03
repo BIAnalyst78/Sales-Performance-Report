@@ -14,7 +14,7 @@ This interactive Power BI report analyzes sales performance across the United St
 - Data modeling
 
 ## Raw Data: 
-- [https://www.kaggle.com/datasets/rohitsahoo/sales-forecasting](SalesDataset)
+- [Dataset: Kaggle Sales Data](https://www.kaggle.com/datasets/rohitsahoo/sales-forecasting)
 
 ## 📸 Screenshots:
 ![image](https://github.com/user-attachments/assets/3d979d2a-b037-42f8-ae7a-609d028fe02d)
